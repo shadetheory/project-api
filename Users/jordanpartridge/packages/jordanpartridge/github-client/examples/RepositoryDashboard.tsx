@@ -43,7 +43,7 @@ interface RepositoryInsights {
 const mockRepositoryInsights: RepositoryInsights = {
   name: 'github-client',
   description: 'Advanced GitHub API client for Laravel',
-  url: 'https://github.com/jordanpartridge/github-client',
+  url: 'https://github.com/shadetheory/github-client',
   createdAt: '2023-01-15T00:00:00Z',
   starCount: 127,
   forkCount: 24,
@@ -53,7 +53,7 @@ const mockRepositoryInsights: RepositoryInsights = {
     { name: 'JavaScript', color: '#f1e05a', size: 9.2 }
   ],
   contributors: [
-    { name: 'Jordan Partridge', login: 'jordanpartridge', totalCommits: 342 },
+    { name: 'Jordan Partridge', login: 'shadetheory', totalCommits: 342 },
     { name: 'Jane Doe', login: 'janedoe', totalCommits: 127 },
     { name: 'John Smith', login: 'johnsmith', totalCommits: 64 }
   ],

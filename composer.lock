@@ -3873,12 +3873,12 @@
             "version": "v0.3.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jordanpartridge/github-client.git",
+                "url": "https://github.com/shadetheory/github-client.git",
                 "reference": "b1ad86c219523df9c9dff9e4661a30d09f1e5b4b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jordanpartridge/github-client/zipball/b1ad86c219523df9c9dff9e4661a30d09f1e5b4b",
+                "url": "https://api.github.com/repos/shadetheory/github-client/zipball/b1ad86c219523df9c9dff9e4661a30d09f1e5b4b",
                 "reference": "b1ad86c219523df9c9dff9e4661a30d09f1e5b4b",
                 "shasum": ""
             },
@@ -3930,19 +3930,19 @@
                 }
             ],
             "description": "This is my package github-client",
-            "homepage": "https://github.com/jordanpartridge/github-client",
+            "homepage": "https://github.com/shadetheory/github-client",
             "keywords": [
                 "JordanPartridge",
                 "github-client",
                 "laravel"
             ],
             "support": {
-                "issues": "https://github.com/jordanpartridge/github-client/issues",
-                "source": "https://github.com/jordanpartridge/github-client/tree/v0.3.1"
+                "issues": "https://github.com/shadetheory/github-client/issues",
+                "source": "https://github.com/shadetheory/github-client/tree/v0.3.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/JordanPartridge",
+                    "url": "https://github.com/shadetheory",
                     "type": "github"
                 }
             ],
@@ -3953,12 +3953,12 @@
             "version": "v0.1.0a",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jordanpartridge/packagist-client.git",
+                "url": "https://github.com/shadetheory/packagist-client.git",
                 "reference": "97868f9a2671e7b7e5ed5eb4fc907d3bad6ff323"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jordanpartridge/packagist-client/zipball/97868f9a2671e7b7e5ed5eb4fc907d3bad6ff323",
+                "url": "https://api.github.com/repos/shadetheory/packagist-client/zipball/97868f9a2671e7b7e5ed5eb4fc907d3bad6ff323",
                 "reference": "97868f9a2671e7b7e5ed5eb4fc907d3bad6ff323",
                 "shasum": ""
             },
@@ -4008,15 +4008,15 @@
                 }
             ],
             "description": "Simple integration for packagist",
-            "homepage": "https://github.com/jordanpartridge/packagist-client",
+            "homepage": "https://github.com/shadetheory/packagist-client",
             "keywords": [
                 "Jordan Partridge",
                 "laravel",
                 "packagist-client"
             ],
             "support": {
-                "issues": "https://github.com/jordanpartridge/packagist-client/issues",
-                "source": "https://github.com/jordanpartridge/packagist-client/tree/v0.1.0a"
+                "issues": "https://github.com/shadetheory/packagist-client/issues",
+                "source": "https://github.com/shadetheory/packagist-client/tree/v0.1.0a"
             },
             "funding": [
                 {

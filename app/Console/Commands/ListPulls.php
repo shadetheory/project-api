@@ -26,7 +26,7 @@ class ListPulls extends Command
     public function handle(): void
     {
         //type-ahead for repos
-        $repo = $this->ask('Enter the repository name (e.g., jordanpartridge/github-client):');
+        $repo = $this->ask('Enter the repository name (e.g., shadetheory/github-client):');
 
         \JordanPartridge\GithubClient\Facades\Github::pulls($repo)->list();
     }

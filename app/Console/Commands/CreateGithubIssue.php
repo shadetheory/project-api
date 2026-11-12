@@ -21,7 +21,7 @@ class CreateGithubIssue extends Command
 
         // Using Laravel's HTTP facade for simplicity, but you can replace this with any HTTP client you prefer
         $response = Http::withToken(config('services.github.token'))
-            ->post('https://api.github.com/repos/jordanpartridge/project-api/issues', $issueData);
+            ->post('https://api.github.com/repos/shadetheory/project-api/issues', $issueData);
 
         if ($response->successful()) {
             $this->info('✅ Issue created! Now, let\'s watch the magic unfold...');
